@@ -9,12 +9,14 @@ Link al sitio web: [Advent of Code](https://adventofcode.com/2025)
 Para ejecutar las soluciones en JavaScript, utiliza Node.js:
 
 ```bash
-node dayXX/js/solution.js
+cd dayXX/js
+node solution.js
 ```
 
 Para ejecutar las soluciones en Python, utiliza Python 3:
 
 ```bash
-python dayXX/py/solution.py
+cd dayXX/py
+python solution.py
 ```
 
